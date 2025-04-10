@@ -12,7 +12,7 @@ public class LinkedList {
         length = 1;
     }
 
-    public class Node {
+    public static class Node {
         int value;
         Node next;
 

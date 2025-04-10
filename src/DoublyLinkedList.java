@@ -10,7 +10,7 @@ public class DoublyLinkedList {
         length = 1;
     }
 
-    public class Node {
+    public static class Node {
         int value;
         Node next;
         Node prev;
